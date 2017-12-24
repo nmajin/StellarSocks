@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "description": "TCP server for interacting with a telescope via serial connection from planetarium software such as Stellarium and SkySafari.",
   "bugs": {
-	"url": "https://github.com/raceconditions/StellarSocks/issues",
-	"email": "raceconditions@gmail.com"
+    "url": "https://github.com/raceconditions/StellarSocks/issues",
+    "email": "raceconditions@gmail.com"
   },
   "main": "main.js",
   "bin": {
-	"stellarsocks": "./bin/stellarsocks.js"
+    "stellarsocks": "./bin/stellarsocks.js"
   },
   "scripts": {
     "test": "echo \"Error: no tests yet!\" && exit 1",
